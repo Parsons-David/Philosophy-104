@@ -1,8 +1,9 @@
 # They Say I Say - Chapter 1 Summary
 
-##"They Say" - Starting with What Others are Saying
+##"They Say"
+Starting with What Others are Saying
 
-###MOTIVATION
+### The Writers Motivation
 
         To Give a point: "a writer needs to indicate clearly not only what his or her theisi is, but also
         what larger conversation that thesis is responding to"
