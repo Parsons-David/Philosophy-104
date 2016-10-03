@@ -95,9 +95,9 @@ Unlike the Golden Rule, the *Categorical Imperative* doesn't assume that everyon
     If you think that people have moral rights that others must respect, then you might wish 
     to side with the Kantians.
 
-## Objections to Deontology
+### Objections to Deontology
 
-### Objection 1: Generality
+#### Objection 1: Generality
 
 	1. If you want someone’s bodily organs, just kill them and help yourself.
 	2. If you are a physician, you should save the lives of as many of your patients as possible.
@@ -105,11 +105,11 @@ Unlike the Golden Rule, the *Categorical Imperative* doesn't assume that everyon
 
 The objection to Kantianism is that each of three principles of action just listed can be cited as the principle of action in the organ-robber case. But (1) violates the categorical imperative, whereas (2) and (3) apparently do not. Therefore the categorical imperative leads to inconsistent moral judgments.
 
-### Objection 2: Agent-Neutral Intuitions
+#### Objection 2: Agent-Neutral Intuitions
 
 The drowning swimmers case prompted agent-relative intuitions (you should save your own child from drowning), and so was an objection against utilitarianism. Yet the nepotism case motivates agent-neutral intuitions (you should give all applicants an equal chance at the job) and so counts against Kantianism.
 
-### Objection 3: Horrible Consequences
+#### Objection 3: Horrible Consequences
 
 	The Kantian bumper sticker is damn the consequences, abide by the categorical imperative!
     
