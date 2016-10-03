@@ -13,3 +13,15 @@ Providing context to your argument by giving a summary can be very effective, bu
     "Quoting what "They Say" must always be connected to with what "You Say".
 
 ### Quote Relevant Passages
+    
+    "Be careful not to select quotations just for the sake of demonstrating that you've read the
+    author's work; you need to make sure they support your own argument."
+
+Quotes aren't mean't to just provide some extra bits to top off an essay. They can either be an intregral part of your arguement, providing you with effective support, or they will cause your writing to appear sloppy if placed introduced at the wrong times.
+
+### Frame Every Quotation
+    
+    "Be careful not to select quotations just for the sake of demonstrating that you've read the
+    author's work; you need to make sure they support your own argument."
+
+Quotes aren't mean't to just provide some extra bits to top off an essay. They can either be an intregral part of your arguement, providing you with effective support, or they will cause your writing to appear sloppy if placed introduced at the wrong times.
