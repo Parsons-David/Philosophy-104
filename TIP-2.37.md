@@ -4,7 +4,8 @@
 
 **Immanuel Kent**:
 
-	"The morality of actions does not vary from circustance to circustance, but instead there is an absolute 		moral law which applies to everyone at all times."
+	"The morality of actions does not vary from circustance to circustance, but instead there is an absolute
+	moral law which applies to everyone at all times."
 
 ### Imperatives and Good Motives
 
@@ -51,7 +52,10 @@ Moral laws is a *categorical imperative* telling you what you should do regardle
 
 Example: 
 	
-    You ask to borrow money from Bob with no intention of paying him back. Now everyone acts on exactly the same principle. What will happen to promising? It will become meaningless; everyone will know that promises aren’t worth spit. Which means that your false promise to Bob will get you nothing.
+    You ask to borrow money from Bob with no intention of paying him back. Now everyone acts on 
+    exactly the same principle. What will happen to promising? It will become meaningless; 
+    everyone will know that promises aren’t worth spit. Which means that your false promise to
+    Bob will get you nothing.
     
 It is because false promising violates the categorical imperative that it is morally wrong.
 
@@ -111,4 +115,5 @@ The drowning swimmers case prompted agent-relative intuitions (you should save y
     
 Kantianism does not allow violations of the categorical imperative in order to prevent other violations of the categorical imperative. To do so would mean that the moral law is not truly categorical after all.
 
-	A stern and inflexible absolute moral law is difficult to square with the lavish and unforeseeable variety of human situations.
+	A stern and inflexible absolute moral law is difficult to square with the lavish and 
+	unforeseeable variety of human situations.
