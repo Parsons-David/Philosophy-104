@@ -4,8 +4,8 @@
 
 **Immanuel Kent**:
 
-	"The morality of actions does not vary from circustance to circustance, but instead there is an absolute
-	moral law which applies to everyone at all times."
+	"The morality of actions does not vary from circumstance to circumstance, but
+	instead there is an absolute moral law which applies to everyone at all times."
 
 ### Imperatives and Good Motives
 
@@ -34,74 +34,80 @@ Moral laws is a *categorical imperative* telling you what you should do regardle
 
 ### Categorical Imperative - Version 1
 
-**Universalizability** - What if everbody did that?: 
-	
-    Act only according to those principles of action that you could will to be a universal law of nature.
-    
+**Universalizability** - What if everybody did that?:
+
+	Act only according to those principles of action that you could will to be
+	a universal law of nature.
+
 #### Inconsistency
 
-	1. If your principle of action were universalized, then it would make your own 
+	1. If your principle of action were universalized, then it would make your own
 	   action an impossible or fruitless one.
-       
-	2. Thus your act could not be the result of a principle of action that you could 
+
+	2. Thus your act could not be the result of a principle of action that you could
 	   will to be a universal law of nature.
-       
+
 	3. Thus your act violates the categorical imperative.
-	
+
 	4. Thus your act is immoral.
 
-Example: 
-	
-    You ask to borrow money from Bob with no intention of paying him back. Now everyone acts on 
-    exactly the same principle. What will happen to promising? It will become meaningless; 
-    everyone will know that promises aren’t worth spit. Which means that your false promise to
-    Bob will get you nothing.
-    
+Example:
+
+    You ask to borrow money from Bob with no intention of paying him back.
+	Now everyone acts on exactly the same principle. What will happen to
+	promising? It will become meaningless; everyone will know that promises
+	aren’t worth spit. Which means that your false promise to Bob will get
+	you nothing.
+
 It is because false promising violates the categorical imperative that it is morally wrong.
 
-#### Inconsistant Willing
+#### Inconsistent Willing
 
 	1. You could not consistently will that your principle of action be universalized.
-       
-	2. Thus your act could not be the result of a principle of action that you could 
+
+	2. Thus your act could not be the result of a principle of action that you could
 	   will to be a universal law of nature.
-       
+
 	3. Thus your act violates the categorical imperative.
-	
+
 	4. Thus your act is immoral.
 
-Example: 
-	
-    Suppose that no matter what, you always look out for yourself. Everyone in this world has to take care 
-    of himself or herself, that’s just the way it is.  It’s easy to advocate selfish action when everything
-    is going well for you, when you’re young, healthy, strong, and have money in your pocket. But suppose 
-    that your car breaks down in the middle of a blizzard out in the boonies someplace and your cell 
-    phone’s dead. If “act selfishly” is a universal law of nature, then no one is going to stop and help you.
-    
+Example:
+
+    Suppose that no matter what, you always look out for yourself. Everyone in
+	this world has to take care of himself or herself, that’s just the way it is.
+	It’s easy to advocate selfish action when everything is going well for you,
+	when you’re young, healthy, strong, and have money in your pocket. But suppose
+	that your car breaks down in the middle of a blizzard out in the boonies
+	someplace and your cell phone’s dead. If “act selfishly” is a universal law of
+	nature, then no one is going to stop and help you.
+
 Ethical egoism is incompatible with the categorical imperative because it can’t be universalized.
 
 ### Categorical Imperative - Version 2
 
-**Treating Others** - Don’t just use people to get what you want: 
-	
+**Treating Others** - Don’t just use people to get what you want:
+
     Treat other people as ends in themselves and never merely as means to your own ends.
 
 Unlike the Golden Rule, the *Categorical Imperative* doesn't assume that everyone has the same values and interests.
 
-	Under Kantianism, the moral law is universally applicable and exceptionless.
-    
+	Under Kantianism, the moral law is universally applicable and exception less.
+
     Rights are claims against the behavior of others.
-    
-    If you think that people have moral rights that others must respect, then you might wish 
-    to side with the Kantians.
+
+    If you think that people have moral rights that others must respect, then
+		you might wish to side with the Kantians.
 
 ### Objections to Deontology
 
 #### Objection 1: Generality
 
 	1. If you want someone’s bodily organs, just kill them and help yourself.
-	2. If you are a physician, you should save the lives of as many of your patients as possible.
-	3. You should act in such as way as to produce as much pleasure in the world as you can.
+	2. If you are a physician, you should save the lives of as many of your
+		 patients as possible.
+	3. You should act in such as way as to produce as much pleasure in the
+		 world as you can.
 
 The objection to Kantianism is that each of three principles of action just listed can be cited as the principle of action in the organ-robber case. But (1) violates the categorical imperative, whereas (2) and (3) apparently do not. Therefore the categorical imperative leads to inconsistent moral judgments.
 
@@ -111,9 +117,10 @@ The drowning swimmers case prompted agent-relative intuitions (you should save y
 
 #### Objection 3: Horrible Consequences
 
-	The Kantian bumper sticker is damn the consequences, abide by the categorical imperative!
-    
+	The Kantian bumper sticker is damn the consequences, abide by the
+	categorical imperative!
+
 Kantianism does not allow violations of the categorical imperative in order to prevent other violations of the categorical imperative. To do so would mean that the moral law is not truly categorical after all.
 
-	A stern and inflexible absolute moral law is difficult to square with the lavish and 
-	unforeseeable variety of human situations.
+	A stern and inflexible absolute moral law is difficult to square with the
+	lavish and unforeseeable variety of human situations.
