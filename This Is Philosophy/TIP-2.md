@@ -1,6 +1,6 @@
 # This Is Philosophy - Chapter 2 : 2.36 Summary
 
-## Utiliarianism (Is Morality Doing What I can to Make This the Best World Possible?)
+## Utilitarianism (Is Morality Doing What I can to Make This the Best World Possible?)
 
 Utilitarianism aims to address the problem of equal treatment that was presented in moral and cultural relativism.
     
