@@ -5,7 +5,7 @@ I've written chapter summaries based off of my synthesis of the material I read.
 
 Course Materials:
 
-   **They Say I Say** by *Gerald Graff & Cathy Birkenstein*
+   **They Say I Say** by *Gerald Graff & Cathy Birkenstein*   
    **This is Philosopy: A Introduction** by *Steven D. Hales*
 
 I may additionaly include any arguement maps or other work that I develop during my time taking this course.
