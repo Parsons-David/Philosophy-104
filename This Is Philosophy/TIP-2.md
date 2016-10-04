@@ -124,22 +124,67 @@ Summary Example:
 
 #### Objection 1: Practicality
 
+It's not feasable to always do the most moral thing in the eyes of Utilitarianism.
 
+We could make an educated guess or a decent calculation for the short term, but there is no way that we can predict all of the outcomes of our actions to the end of time, which is what the theory demands.
+
+	"If we don’t know the ultimate result of a butterfly flapping its wings on the
+    opposite side of the world, how can you possibly know whether some action will
+	eventually lead to more pleasure than pain, or vice versa?"
+    
+All we can do is the best we can; we have no control over the final consequences of our actions.
 
 #### Objection 2: Invasiveness
 
+Under **Utilitarianism**, morality is just too invasive. Now every single aspect of our lives has moral weight.
 
+	"Whether you take out the garbage before or after dinner is
+	now a moral issue. What you have for breakfast is laden with moral choices.
+	You probably have a moral duty to get out on one side of the bed rather
+	than the other."
+
+---
+	Every action has moral properties like every object has mass.
+
+**Utilitarianism** shouldn’t be seen as invasive, but merely comprehensive.
 
 #### Objection 3: Supererogation
 
+*Supererogation*: `actions that are good actions, but greater than what duty requires.`
 
+Utilitarians don’t deny that, strictly speaking, there are no supererogatory acts.
+
+Just because there are no supererogatory actions, does not mean that there are no morally heroic actions. There might be situations in which you’re a hero just for doing your duty.
 
 #### Objection 4: Simpson’s Paradox
 
+*Simpson’s Paradox* `when a set can be partitioned into subsets that each have a property opposite to that of the superset.`
 
+	"In the 2009 Wimbledon finals, Roger Federer beat Andy Roddick by a score of 5–7,
+    7–6 (8–6), 7–6 (7-5), 3–6, 16–14. Even though Roddick won most of the games (39 
+    versus Federer’s 38), he still lost the match."
+
+We may be obligated to make every person alive less happy, because it will increase the total global amount of happiness.
 
 #### Objection 5: Agent-Relative Intuitions
 
+Addressing the *Drowing Swimmers* (you son and other kid) and *A Friend in Need* (Give money to charity that helps many or your one friend) moral instances.
 
+	"A utilitarian faced with the drowning swimmers case might choose his or
+	her own child, but would have no obligation to do so. Or perhaps the utilitarian
+	might decide that flipping a coin is the fairest way to decide who
+	gets to live and who dies in that instance. The friend in need would just
+	plain be out of luck. The distant charity should get the money."
+---
+	"If you’re inclined to think that those actions are not what you should do, then
+    you might doubt that utilitarianism is the correct moral theory."
 
 #### Objection 6: Nothing is Absolutely Wrong
+
+Under **Utilitarianism** there is no act so heinous, so terrible, that it is utterly unconscionable.
+
+In the case of *The Organ Robber* - murdering an innocent man to use his organ to save 10 others.
+
+	"If you think that murdering an innocent person in order to cut them up
+	and steal their body parts is wrong, no matter what good may come of it,
+	then that is a reason to reject utilitarianism."
