@@ -13,7 +13,7 @@ The two central components of virtue ethics:
 
 A good person is a virtuous person, one with a certain sort of character.
 
-### What is virtue?
+### What is Virtue?
 
 **Virtues** are: `good qualities or characteristics.`
 
@@ -25,4 +25,17 @@ Varying from *Utilitarianism* in that the consequences of your actions don't def
 
 	"The opposite of virtue is vice."
 
-|Too Little|
+|Too Little		|Just Right|Too Much	 |
+|:-----------:|:--------:|:---------:|
+|Stingy		 		|Generous  |Wasteful	 |
+|Cowardly	 		|Courageous|Reckless	 |
+|Cranky		 		|Friendly  |Sucking Up/brown-nosing|
+|False modesty|Honesty about oneself|Bragging|
+|Anorexia|Moderate Consumption|Gluttony|
+|Sloth 		    |Ambition  |Workaholism|
+
+	"It is good to be ambitious and bad to be lazy or slothful."
+
+You want to find a mix in your actions.
+
+### What is Character?
