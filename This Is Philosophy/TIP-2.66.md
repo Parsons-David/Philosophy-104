@@ -87,7 +87,7 @@ the appropriate situation.`
 But character is an ineffective way of describing somebody, since it's based off of their previous actions, it can't provide a clear picture of how they will act in the future.
 
 	"Appeal to character is a tidy plotline to understand the behavior of others
-	(and ourselves), but isn’t nearly as predictive as the general facts of human
+	(and ourselves), but isn’t nearly as predictive as the general facats of human
 	nature that the experimentalists are uncovering."
 
 This has been proven in social experiments that have found things like:
