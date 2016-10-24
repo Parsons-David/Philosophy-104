@@ -63,3 +63,67 @@ Under Option B: *morality and religion are logically separate*
     logically separate, which means that whether God exists has
     nothing to do with whether there are moral facts or what those
     facts are."
+
+
+## Psychological and Ethical Egoism
+
+**Psychological Egoism** - everyone always acts in his or her own self-interest.
+
+**Ethical Egoism** - everyone should always act in his or her own self-interest.
+
+If Psychological Egoism is true, then people only due things because it can promote their self-interest, altruism wouldn't exist. No one would donate to charity unless they need the tax credit. People would only give to the homeless to impress others. Studies indicate that no one should have children, since we appear to happier without them.
+
+But ethical egoism allows for everyone to act outside of their own self-interest sometimes, in the event that the action will provide benefit for them in the future.
+
+### Objection 1 - Horrible Consequences
+
+The idea that if you always act in your own self-interest then you are following ethical egoism, but then you might also be into doing some very terrible stuff. This may cause you to inflict terrible things upon your or someone else in the future. And surely it can't be moral to kill somebody or die from an overdose of heroine or go to jail as a result of your terrible actions. Basically your "ethical" actions may catch up to you in the future and not be in your best interest.
+
+### Objection 2 - Subjectivity
+
+    "The second objection to ethical egoism is that it makes morality wholly subjective,
+     in just the same manner as matters of taste."
+
+There's nothing that defines what is moral and what isn't if you are always looking out for yourself. If you only ever do things to promote your own self-interest and don't take on new ideas that might not, then how can there be an agreed upon morality? Then you could not criticize someone who for example: loves to eat babies.
+
+### Objection 3 - Equal Treatment
+
+**Principle of Equal Treatment** - Two people should be treated in the same way unless there is a relevant difference between them.
+
+Ethical egoism violates this idea, since if everyone acts in their own self-interest than they my not treat others the same way as each other, and probably not the same way that they treat themselves.
+
+    "In short, ethical egoism is just a form of prejudicial discrimination, and for
+     that reason should be discarded."
+
+## Moral Relativism
+
+**Descriptive Relativism** - beliefs about morality and the values people possess vary across cultures divided by times and places.
+
+**Moral Relativism** - the truth of moral claims and which values people should adopt vary across cultures divided by times and places. What is morally permissible in one culture may be morally wrong in another culture.
+
+Moral relativism basically says that circumstance can dictate weather or not something is moral.
+
+    "Moral beliefs vary all over the world, from place to place and from time to time.
+     The values crafted by a tribe or a nation fit their specific circumstances and
+     may be completely at odds with the moral codes of other societies—codes that they
+     developed given their own idiosyncratic situation."
+
+---
+
+    "A second reason to reject the argument that descriptive relativism leads
+     to moral relativism is as follows. Descriptive relativism, if true, is something
+     that anthropologists ought to discover. Moral relativism, on the other hand,
+     is not a matter for anthropology."
+
+### Criticism Objection
+
+*Criticism Objection* - if moral relativism is true, then meaningful criticism of either other societies, or one’s own, is impossible.
+
+    "Under moral relativism, the moral truth itself varies from one society or culture
+     to the next. An act might be morally wrong in one society but morally permissible
+     or even obligatory in another—not simply believed to be permissible or obligatory,
+     but in fact permissible or obligatory. It would therefore make no sense whatsoever
+     for people in the first society to criticize the members of the second society
+     for their moral views since those views are, by hypothesis, true (in that society)."
+
+Basically if something is moral in one culture and not in another, then it makes no sense for some from culture A to judge someone from culture B for an action that is immoral in culture A, but is moral in culture B, since the act for person B, is by definition is moral thing them to do.
